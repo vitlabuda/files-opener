@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Files Opener</string>
+    <string name="launcher_name">Dateien</string>
+    <string name="files_app_not_installed_errmsg">Die Datei-App ist auf diesem Gerät nicht installiert.</string>
+</resources>
